@@ -1,4 +1,4 @@
-name: CI notify
+name: CD notify
 
 # Only trigger, when the build workflow succeeded
 on:
